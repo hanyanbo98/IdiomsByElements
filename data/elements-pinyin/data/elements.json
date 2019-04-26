@@ -1,0 +1,592 @@
+[
+  {
+    "elements": "氢",
+    "pinyin": "qīng",
+    "number": "1"
+  },
+  {
+    "elements": "氦",
+    "pinyin": "hài",
+    "number": "2"
+  },
+  {
+    "elements": "锂",
+    "pinyin": "lǐ",
+    "number": "3"
+  },
+  {
+    "elements": "铍",
+    "pinyin": "pí",
+    "number": "4"
+  },
+  {
+    "elements": "硼",
+    "pinyin": "péng",
+    "number": "5"
+  },
+  {
+    "elements": "碳",
+    "pinyin": "tàn",
+    "number": "6"
+  },
+  {
+    "elements": "氮",
+    "pinyin": "dàn",
+    "number": "7"
+  },
+  {
+    "elements": "氧",
+    "pinyin": "yǎng",
+    "number": "8"
+  },
+  {
+    "elements": "氟",
+    "pinyin": "fú",
+    "number": "9"
+  },
+  {
+    "elements": "氖",
+    "pinyin": "nǎi",
+    "number": "10"
+  },
+  {
+    "elements": "钠",
+    "pinyin": "nà",
+    "number": "11"
+  },
+  {
+    "elements": "镁",
+    "pinyin": "měi",
+    "number": "12"
+  },
+  {
+    "elements": "铝",
+    "pinyin": "lǚ",
+    "number": "13"
+  },
+  {
+    "elements": "硅",
+    "pinyin": "guī",
+    "number": "14"
+  },
+  {
+    "elements": "磷",
+    "pinyin": "lín",
+    "number": "15"
+  },
+  {
+    "elements": "硫",
+    "pinyin": "liú",
+    "number": "16"
+  },
+  {
+    "elements": "氯",
+    "pinyin": "lǜ",
+    "number": "17"
+  },
+  {
+    "elements": "氩",
+    "pinyin": "yà",
+    "number": "18"
+  },
+  {
+    "elements": "钾",
+    "pinyin": "jiǎ",
+    "number": "19"
+  },
+  {
+    "elements": "钙",
+    "pinyin": "gài",
+    "number": "20"
+  },
+  {
+    "elements": "钪",
+    "pinyin": "kàng",
+    "number": "21"
+  },
+  {
+    "elements": "钛",
+    "pinyin": "tài",
+    "number": "22"
+  },
+  {
+    "elements": "钒",
+    "pinyin": "fán",
+    "number": "23"
+  },
+  {
+    "elements": "铬",
+    "pinyin": "gè",
+    "number": "24"
+  },
+  {
+    "elements": "锰",
+    "pinyin": "měng",
+    "number": "25"
+  },
+  {
+    "elements": "铁",
+    "pinyin": "tiě",
+    "number": "26"
+  },
+  {
+    "elements": "钴",
+    "pinyin": "gǔ",
+    "number": "27"
+  },
+  {
+    "elements": "镍",
+    "pinyin": "niè",
+    "number": "28"
+  },
+  {
+    "elements": "铜",
+    "pinyin": "tóng",
+    "number": "29"
+  },
+  {
+    "elements": "锌",
+    "pinyin": "xīn",
+    "number": "30"
+  },
+  {
+    "elements": "镓",
+    "pinyin": "jiā",
+    "number": "31"
+  },
+  {
+    "elements": "锗",
+    "pinyin": "zhě",
+    "number": "32"
+  },
+  {
+    "elements": "砷",
+    "pinyin": "shēn",
+    "number": "33"
+  },
+  {
+    "elements": "硒",
+    "pinyin": "xī",
+    "number": "34"
+  },
+  {
+    "elements": "溴",
+    "pinyin": "xiù",
+    "number": "35"
+  },
+  {
+    "elements": "氪",
+    "pinyin": "kè",
+    "number": "36"
+  },
+  {
+    "elements": "铷",
+    "pinyin": "rú",
+    "number": "37"
+  },
+  {
+    "elements": "锶",
+    "pinyin": "sī",
+    "number": "38"
+  },
+  {
+    "elements": "钇",
+    "pinyin": "yǐ",
+    "number": "39"
+  },
+  {
+    "elements": "锆",
+    "pinyin": "gào",
+    "number": "40"
+  },
+  {
+    "elements": "铌",
+    "pinyin": "ní",
+    "number": "41"
+  },
+  {
+    "elements": "钼",
+    "pinyin": "mù",
+    "number": "42"
+  },
+  {
+    "elements": "锝",
+    "pinyin": "dé",
+    "number": "43"
+  },
+  {
+    "elements": "钌",
+    "pinyin": "liǎo",
+    "number": "44"
+  },
+  {
+    "elements": "铑",
+    "pinyin": "lǎo",
+    "number": "45"
+  },
+  {
+    "elements": "钯",
+    "pinyin": "bǎ",
+    "number": "46"
+  },
+  {
+    "elements": "银",
+    "pinyin": "yín",
+    "number": "47"
+  },
+  {
+    "elements": "镉",
+    "pinyin": "gé",
+    "number": "48"
+  },
+  {
+    "elements": "铟",
+    "pinyin": "yīn",
+    "number": "49"
+  },
+  {
+    "elements": "锡",
+    "pinyin": "xī",
+    "number": "50"
+  },
+  {
+    "elements": "锑",
+    "pinyin": "tī",
+    "number": "51"
+  },
+  {
+    "elements": "碲",
+    "pinyin": "dì",
+    "number": "52"
+  },
+  {
+    "elements": "碘",
+    "pinyin": "diǎn",
+    "number": "53"
+  },
+  {
+    "elements": "氙",
+    "pinyin": "xiān",
+    "number": "54"
+  },
+  {
+    "elements": "铯",
+    "pinyin": "sè",
+    "number": "55"
+  },
+  {
+    "elements": "钡",
+    "pinyin": "bèi",
+    "number": "56"
+  },
+  {
+    "elements": "镧",
+    "pinyin": "lán",
+    "number": "57"
+  },
+  {
+    "elements": "铈",
+    "pinyin": "shì",
+    "number": "58"
+  },
+  {
+    "elements": "镨",
+    "pinyin": "pǔ",
+    "number": "59"
+  },
+  {
+    "elements": "钕",
+    "pinyin": "nǚ",
+    "number": "60"
+  },
+  {
+    "elements": "钷",
+    "pinyin": "pǒ",
+    "number": "61"
+  },
+  {
+    "elements": "钐",
+    "pinyin": "shān",
+    "number": "62"
+  },
+  {
+    "elements": "铕",
+    "pinyin": "yǒu",
+    "number": "63"
+  },
+  {
+    "elements": "钆",
+    "pinyin": "gá",
+    "number": "64"
+  },
+  {
+    "elements": "铽",
+    "pinyin": "tè",
+    "number": "65"
+  },
+  {
+    "elements": "镝",
+    "pinyin": "dī",
+    "number": "66"
+  },
+  {
+    "elements": "钬",
+    "pinyin": "huǒ",
+    "number": "67"
+  },
+  {
+    "elements": "铒",
+    "pinyin": "ěr",
+    "number": "68"
+  },
+  {
+    "elements": "铥",
+    "pinyin": "diū",
+    "number": "69"
+  },
+  {
+    "elements": "镱",
+    "pinyin": "yì",
+    "number": "70"
+  },
+  {
+    "elements": "镥",
+    "pinyin": "lǔ",
+    "number": "71"
+  },
+  {
+    "elements": "铪",
+    "pinyin": "hā",
+    "number": "72"
+  },
+  {
+    "elements": "钽",
+    "pinyin": "tǎn",
+    "number": "73"
+  },
+  {
+    "elements": "钨",
+    "pinyin": "wū",
+    "number": "74"
+  },
+  {
+    "elements": "铼",
+    "pinyin": "lái",
+    "number": "75"
+  },
+  {
+    "elements": "锇",
+    "pinyin": "é",
+    "number": "76"
+  },
+  {
+    "elements": "铱",
+    "pinyin": "yī",
+    "number": "77"
+  },
+  {
+    "elements": "铂",
+    "pinyin": "bó",
+    "number": "78"
+  },
+  {
+    "elements": "金",
+    "pinyin": "jīn",
+    "number": "79"
+  },
+  {
+    "elements": "汞",
+    "pinyin": "gǒng",
+    "number": "80"
+  },
+  {
+    "elements": "铊",
+    "pinyin": "tā",
+    "number": "81"
+  },
+  {
+    "elements": "铅",
+    "pinyin": "qiān",
+    "number": "82"
+  },
+  {
+    "elements": "铋",
+    "pinyin": "bì",
+    "number": "83"
+  },
+  {
+    "elements": "钋",
+    "pinyin": "pō",
+    "number": "84"
+  },
+  {
+    "elements": "砹",
+    "pinyin": "ài",
+    "number": "85"
+  },
+  {
+    "elements": "氡",
+    "pinyin": "dōng",
+    "number": "86"
+  },
+  {
+    "elements": "钫",
+    "pinyin": "fāng",
+    "number": "87"
+  },
+  {
+    "elements": "镭",
+    "pinyin": "léi",
+    "number": "88"
+  },
+  {
+    "elements": "锕",
+    "pinyin": "ā",
+    "number": "89"
+  },
+  {
+    "elements": "钍",
+    "pinyin": "tǔ",
+    "number": "90"
+  },
+  {
+    "elements": "镤",
+    "pinyin": "pú",
+    "number": "91"
+  },
+  {
+    "elements": "铀",
+    "pinyin": "yóu",
+    "number": "92"
+  },
+  {
+    "elements": "镎",
+    "pinyin": "ná",
+    "number": "93"
+  },
+  {
+    "elements": "钚",
+    "pinyin": "bù",
+    "number": "94"
+  },
+  {
+    "elements": "镅",
+    "pinyin": "méi",
+    "number": "95"
+  },
+  {
+    "elements": "锔",
+    "pinyin": "jú",
+    "number": "96"
+  },
+  {
+    "elements": "锫",
+    "pinyin": "péi",
+    "number": "97"
+  },
+  {
+    "elements": "锎",
+    "pinyin": "kāi",
+    "number": "98"
+  },
+  {
+    "elements": "锿",
+    "pinyin": "āi",
+    "number": "99"
+  },
+  {
+    "elements": "镄",
+    "pinyin": "fèi",
+    "number": "100"
+  },
+  {
+    "elements": "钔",
+    "pinyin": "mén",
+    "number": "101"
+  },
+  {
+    "elements": "锘",
+    "pinyin": "nuò",
+    "number": "102"
+  },
+  {
+    "elements": "铹",
+    "pinyin": "láo",
+    "number": "103"
+  },
+  {
+    "elements": "鈩",
+    "pinyin": "lú",
+    "number": "104"
+  },
+  {
+    "elements": "𨧀",
+    "pinyin": "dù",
+    "number": "105"
+  },
+  {
+    "elements": "𨭎",
+    "pinyin": "xǐ",
+    "number": "106"
+  },
+  {
+    "elements": "𨨏",
+    "pinyin": "bō",
+    "number": "107"
+  },
+  {
+    "elements": "𨭆",
+    "pinyin": "hēi",
+    "number": "108"
+  },
+  {
+    "elements": "鿏",
+    "pinyin": "mài",
+    "number": "109"
+  },
+  {
+    "elements": "𫟼",
+    "pinyin": "dá",
+    "number": "110"
+  },
+  {
+    "elements": "𬬭",
+    "pinyin": "lún",
+    "number": "111"
+  },
+  {
+    "elements": "鿔",
+    "pinyin": "gē",
+    "number": "112"
+  },
+  {
+    "elements": "鉨",
+    "pinyin": "nǐ",
+    "number": "113"
+  },
+  {
+    "elements": "𫓧",
+    "pinyin": "fū",
+    "number": "114"
+  },
+  {
+    "elements": "镆",
+    "pinyin": "mò",
+    "number": "115"
+  },
+  {
+    "elements": "𫟷",
+    "pinyin": "lì",
+    "number": "116"
+  },
+  {
+    "elements": "\u9FEC石田",
+    "pinyin": "tián",
+    "number": "117"
+  },
+  {
+    "elements": "\u9FEB气奥",
+    "pinyin": " ào",
+    "number": "118"
+  }
+]
